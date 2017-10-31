@@ -8,7 +8,7 @@
 
 ### En el repositorio original estaba ya configurado el folder que contiene los directorios y documentos a ser usados para este proyecto.
 
-### Como se me indicó en las instrucciones, me apoyé en el portal de fontawesome, así que creé un directorio para archivar el css necesario para _jalar_los íconos necesarios.
+### Como se me indicó en las instrucciones, me apoyé del portal de fontawesome, así que creé un directorio para archivar el css necesario para _jalar_ los íconos necesarios.
 
 ### Maqueteé la estructura html de la página web y luego procedí a enlazarla a un archivo CSS para poder darle los estilos necesarios.
 
