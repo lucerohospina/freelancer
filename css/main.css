@@ -198,12 +198,12 @@ nav img {
 }
 
 .contact-me form {
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 
 .contact-me input {
     display: block;
-    margin-left: 25%;
+    margin-left: 30%;
     width: 800px;
     font-family: 'Lato', sans-serif;
     font-size: 25px;
@@ -215,11 +215,10 @@ nav img {
 }
 
 .contact-me button {
-    margin-top: 50px;
-    margin-right: 750px;
+    margin-right: 575px;
+    margin-top: 100px;
     cursor: pointer;
     color: #fff;
-    margin-top: 20px;
     border: 1px solid #fff;
     border-radius: 5px;
     background-color: #18bc9c;
@@ -240,13 +239,12 @@ footer {
 }
 
 .blocks {
-    width: 70%;
+    max-width: 80%;
     margin: auto;
     padding: 60px 0;
     overflow: auto;
     line-height: 30px;
     text-align: center;
-    
 }
 
 .fsize {
@@ -255,22 +253,49 @@ footer {
 
 .block1 {
     display: inline-block;
+    position: relative;
     margin-right: 100px;
 }
 
 .block2 {
     display: inline-block;
-    
+    position: absolute;
 }
 
 .block3 {
     display: inline-block;
-    float: right;
-    /* margin-left: 12%; */
+    float: right; 
+    margin-left: 15%;
+    margin-right: 80px;
 }
+
 .block2 i {
-    margin: 15px;
+    margin: 2px;   
 }
+
+.fa-facebook {
+    display: inline-block;
+    border-radius: 25px;
+    border: 2px solid #fff;
+    padding: 14px 17px;  
+}
+
+.fa-google-plus {
+    display: inline-block;
+    border-radius: 25px;
+    border: 2px solid #fff;
+    padding: 14px 9px;  
+}
+
+.fa-twitter,
+.fa-linkedin,
+.fa-dribbble {
+    display: inline-block;
+    border-radius: 25px;
+    border: 2px solid #fff;
+    padding: 14px 12px;  
+}
+
 .secondary-font {
     font-family: 'Lato', sans-serif;
     font-size: 20px;
@@ -278,4 +303,10 @@ footer {
 
 footer a {
     color: #18bc9c;
+}
+
+ .secondary-font-bottom {
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    padding-bottom: 25px;
 }
