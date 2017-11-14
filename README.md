@@ -2,7 +2,7 @@
 
 ### En el presente repositorio desarrollo el maquetado de la siguiente página web:
 
-![Freelancer Website](docs/fullpage.png)
+![Freelancer Website](assets/docs/fullpage.png)
 
 ### Se me brindó el repositorio original para realizar un _fork_ y de ahí _clonar_.
 
